@@ -20,5 +20,6 @@
     "url": "https://github.com/telacaul/express_note-taker/issues"
   },
   "homepage": "https://github.com/telacaul/express_note-taker#readme",
+  "devDependencies": {},
   "description": ""
 }
